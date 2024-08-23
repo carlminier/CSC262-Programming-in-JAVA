@@ -12,7 +12,7 @@ Iteration: Arrays can be iterated over using loops, such as for or while loops, 
 
 Memory Efficiency: Arrays are stored in contiguous memory locations, which can lead to more efficient memory usage and faster access times due to locality of reference.
 
-#Functions of ArrayLists in Java
+# Functions of ArrayLists in Java
 
 An ArrayList is a part of Java’s java.util package and provides a resizable array implementation. Unlike arrays, ArrayList can dynamically grow and shrink as elements are added or removed. The primary functions of ArrayList include:
 
@@ -26,7 +26,7 @@ Multiple Utility Methods: ArrayList provides various methods like add(), remove(
 
 Iteration: Like arrays, ArrayList can be iterated over using loops, and it also supports iteration through the Iterator and ListIterator interfaces, providing more flexible iteration options.
 
-#Conceptual Differences Between Arrays and ArrayLists
+# Conceptual Differences Between Arrays and ArrayLists
 
 Size Flexibility: The most significant difference between arrays and ArrayList is size flexibility. Arrays have a fixed size, meaning that once you define the number of elements it can hold, you cannot change it. On the other hand, ArrayList can dynamically resize, allowing you to add or remove elements without worrying about running out of space.
 
