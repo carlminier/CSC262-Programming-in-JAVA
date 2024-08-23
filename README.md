@@ -1,4 +1,4 @@
-#Functions of Arrays in Java
+# Functions of Arrays in Java
 
 An array in Java is a fixed-size data structure that stores elements of the same type. Arrays are a fundamental feature in Java, and they provide efficient storage and access to a sequence of elements. The primary functions of arrays include:
 
