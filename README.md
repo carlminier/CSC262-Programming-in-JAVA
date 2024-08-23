@@ -1,4 +1,5 @@
 #Functions of Arrays in Java
+
 An array in Java is a fixed-size data structure that stores elements of the same type. Arrays are a fundamental feature in Java, and they provide efficient storage and access to a sequence of elements. The primary functions of arrays include:
 
 Fixed Size: Once an array is created, its size cannot be changed. This means that you must know in advance how many elements you need to store.
@@ -12,6 +13,7 @@ Iteration: Arrays can be iterated over using loops, such as for or while loops, 
 Memory Efficiency: Arrays are stored in contiguous memory locations, which can lead to more efficient memory usage and faster access times due to locality of reference.
 
 #Functions of ArrayLists in Java
+
 An ArrayList is a part of Java’s java.util package and provides a resizable array implementation. Unlike arrays, ArrayList can dynamically grow and shrink as elements are added or removed. The primary functions of ArrayList include:
 
 Dynamic Sizing: ArrayList can automatically resize itself when elements are added or removed. This makes it more flexible compared to arrays.
@@ -25,6 +27,7 @@ Multiple Utility Methods: ArrayList provides various methods like add(), remove(
 Iteration: Like arrays, ArrayList can be iterated over using loops, and it also supports iteration through the Iterator and ListIterator interfaces, providing more flexible iteration options.
 
 #Conceptual Differences Between Arrays and ArrayLists
+
 Size Flexibility: The most significant difference between arrays and ArrayList is size flexibility. Arrays have a fixed size, meaning that once you define the number of elements it can hold, you cannot change it. On the other hand, ArrayList can dynamically resize, allowing you to add or remove elements without worrying about running out of space.
 
 Type Safety: Arrays are type-specific from the start, while ArrayList is generic, allowing the type to be defined when the ArrayList is instantiated. This generic nature of ArrayList provides additional type safety at compile-time.
